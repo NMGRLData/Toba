@@ -1,0 +1,25 @@
+{
+    "beam_diameter": "1.0", 
+    "cleanup_duration": 30.0, 
+    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "extract_device": "Fusions CO2", 
+    "extract_duration": 30.0, 
+    "extract_units": "", 
+    "extract_value": 3.0, 
+    "pattern": "pentagon.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": 15, 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "", 
+    "response": "", 
+    "tray": "", 
+    "weight": 0.0
+}

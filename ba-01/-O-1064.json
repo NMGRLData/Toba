@@ -1,0 +1,82 @@
+{
+    "aliquot": 1064, 
+    "analysis_type": "blank_air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single crystal bi", 
+    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "ba-01-O", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 7, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "blank", 
+    "measurement": "", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Toba", 
+    "sample": "blank_air", 
+    "spec_sha": "0c9586656f97b6d6ca90136276da5bd355248ef0", 
+    "timestamp": "2015-03-11T12:55:02", 
+    "username": "LPeters", 
+    "uuid": "bf5b3afb-3293-4e1f-8f20-66c1de6e6554"
+}

@@ -1,0 +1,82 @@
+{
+    "aliquot": 10, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "1.22 mg", 
+    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63466", 
+    "increment": 3, 
+    "irradiation": "NM-274", 
+    "irradiation_level": "F", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "bi", 
+    "measurement": "", 
+    "project": "Toba", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Toba", 
+    "sample": "SF-3", 
+    "spec_sha": "0c9586656f97b6d6ca90136276da5bd355248ef0", 
+    "timestamp": "2015-03-11T11:34:58", 
+    "username": "LPeters", 
+    "uuid": "e58441a5-624a-4e42-ae71-fedd71afa7e4"
+}

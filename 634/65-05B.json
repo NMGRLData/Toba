@@ -1,0 +1,82 @@
+{
+    "aliquot": 5, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "F3:274, 0.57 mg", 
+    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "63465", 
+    "increment": 1, 
+    "irradiation": "NM-274", 
+    "irradiation_level": "F", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "san", 
+    "measurement": "", 
+    "project": "Toba", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Toba", 
+    "sample": "TT-10-2", 
+    "spec_sha": "63bdfa621e4e1990f6b1c8e455b6f6c457aa09ff", 
+    "timestamp": "2015-02-27T16:53:17", 
+    "username": "LPeters", 
+    "uuid": "09a65bce-185d-4b94-afa3-86c240616bd7"
+}
