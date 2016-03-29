@@ -1,0 +1,82 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "single san", 
+    "commit": "7e8f6450b5687311cfdb1ae530e813620b45d9cc", 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "64104", 
+    "increment": 0, 
+    "irradiation": "NM-281", 
+    "irradiation_level": "A", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ar36": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "classification": null, 
+            "classification_probability": 0, 
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "san", 
+    "measurement": "", 
+    "project": "Toba", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Toba", 
+    "sample": "SI-A-3", 
+    "spec_sha": "be134c4077286cf9f6a6b1e508b148bf8a89c010", 
+    "timestamp": "2016-02-25T14:36:03", 
+    "username": "", 
+    "uuid": "58a8f755-0b55-4eab-8504-75fbbc59e25a"
+}

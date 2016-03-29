@@ -3,7 +3,7 @@
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
     "comment": "E:3 Single crystal 3.20 mg, yellow", 
-    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "commit": "7e8f6450b5687311cfdb1ae530e813620b45d9cc", 
     "detectors": {
         "AX": {
             "deflection": null, 

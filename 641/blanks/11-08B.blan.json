@@ -1,0 +1,68 @@
+{
+    "Ar36": {
+        "error": 0.000109517574072376, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": 0.00204506122891726
+    }, 
+    "Ar37": {
+        "error": 0.00174194194899682, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": 0.0259753511597405
+    }, 
+    "Ar38": {
+        "error": 0.00411151200146742, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": -0.00692456077253437
+    }, 
+    "Ar39": {
+        "error": 0.0072681894225717, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": 0.00922828027627793
+    }, 
+    "Ar40": {
+        "error": 0.00532528639030154, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": 0.478090615953166
+    }, 
+    "Ar41": {
+        "error": 0.00448804479420482, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "runid": ""
+            }
+        ], 
+        "value": -0.00134045329423264
+    }
+}

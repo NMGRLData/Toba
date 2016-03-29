@@ -1,7 +1,7 @@
 {
     "beam_diameter": "2.0", 
     "cleanup_duration": 30.0, 
-    "commit": "a809e348543f9a6781ca95fe9659e96c2abadefc", 
+    "commit": "7e8f6450b5687311cfdb1ae530e813620b45d9cc", 
     "extract_device": "Fusions CO2", 
     "extract_duration": 45.0, 
     "extract_units": "", 
