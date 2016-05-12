@@ -6,7 +6,7 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 0.0076300557554467895, 
+        "error": 5.228388722105506e-05, 
         "fit": "Linear", 
         "references": [
             {
