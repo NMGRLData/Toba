@@ -17,7 +17,7 @@
     }, 
     "H1": {
         "error": 0.0024814907270434617, 
-        "filter_outliers": false, 
+        "filter_outliers": true, 
         "fit": "Average", 
         "iterations": 1, 
         "std_devs": 2, 
