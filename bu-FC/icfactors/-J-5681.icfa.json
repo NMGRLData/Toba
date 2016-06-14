@@ -6,8 +6,8 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 0.0011704368090654908, 
-        "fit": "Linear", 
+        "error": 0.002963053713561859, 
+        "fit": "Average", 
         "references": [
             {
                 "exclude": "ok", 
@@ -30,7 +30,7 @@
                 "uuid": "872e5fda-7039-40a9-bba0-f2a9bff6a9d5"
             }
         ], 
-        "value": 0.9866308966354062
+        "value": 1.0285443830715646
     }, 
     "H1": {
         "error": 1e-20, 
