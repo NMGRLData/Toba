@@ -12,7 +12,7 @@
     }, 
     "Ar37": {
         "error": 0.001924716617354148, 
-        "filter_outliers": true, 
+        "filter_outliers": false, 
         "fit": "Linear", 
         "fn": 570, 
         "include_baseline_error": false, 
