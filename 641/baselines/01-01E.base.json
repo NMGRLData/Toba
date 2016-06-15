@@ -11,15 +11,15 @@
         "value": 0.029297247070644516
     }, 
     "CDD": {
-        "error": 0.0, 
+        "error": 3.0386026738023247e-06, 
         "filter_outliers": true, 
         "fit": "Average", 
         "fn": 169, 
         "include_baseline_error": false, 
         "iterations": 1, 
         "n": 180, 
-        "std_devs": 2, 
-        "value": 0.0
+        "std_devs": 10, 
+        "value": 1.0008257231675088e-05
     }, 
     "H1": {
         "error": 0.002852304135028102, 
