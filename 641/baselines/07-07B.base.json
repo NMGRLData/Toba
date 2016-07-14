@@ -1,32 +1,68 @@
 {
     "AX": {
-        "error": 0.04521189842723174, 
-        "fit": "average", 
+        "error": 0.003774838392043369, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 173, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.026895726353637982
     }, 
     "CDD": {
-        "error": 4.516278444637785e-05, 
-        "fit": "average", 
+        "error": 3.366235202509036e-06, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 180, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 10, 
         "value": 1.5012385847512633e-05
     }, 
     "H1": {
-        "error": 0.035039085701187224, 
-        "fit": "average", 
+        "error": 0.00299730548108392, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 170, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": -0.0413915665821953
     }, 
     "H2": {
-        "error": 0.0512359681639715, 
-        "fit": "average", 
+        "error": 0.003973587506521624, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 173, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.07151512379052839
     }, 
     "L1": {
-        "error": 0.038874340208471386, 
-        "fit": "average", 
+        "error": 0.003331983904052271, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 169, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.1723210670098045
     }, 
     "L2": {
-        "error": 0.01920562630203801, 
-        "fit": "average", 
+        "error": 0.0015420027003297668, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 173, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.00033734373098429066
     }
 }

@@ -1,32 +1,68 @@
 {
     "AX": {
-        "error": 0.04914603620496231, 
-        "fit": "average", 
+        "error": 0.0038871179106528034, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 171, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.03360285486226727
     }, 
     "CDD": {
-        "error": 4.6535825905557257e-05, 
-        "fit": "average", 
+        "error": 3.4685756704640578e-06, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 180, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 10, 
         "value": 1.0008257231675088e-05
     }, 
     "H1": {
-        "error": 0.03718880502277729, 
-        "fit": "average", 
+        "error": 0.003067539915761452, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 170, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": -0.041292434588403384
     }, 
     "H2": {
-        "error": 0.04588408735179743, 
-        "fit": "average", 
+        "error": 0.003724315540978777, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 171, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.0719001535122005
     }, 
     "L1": {
-        "error": 0.041562543932312616, 
-        "fit": "average", 
+        "error": 0.00332865772709728, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 172, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": 0.16835352613828902
     }, 
     "L2": {
-        "error": 0.017374206608833022, 
-        "fit": "average", 
+        "error": 0.0014045699529192024, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 175, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 180, 
+        "std_devs": 2, 
         "value": -0.004401785140341547
     }
 }
