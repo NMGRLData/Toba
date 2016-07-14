@@ -7,7 +7,7 @@
     }, 
     "CDD": {
         "error": 0.0, 
-        "fit": "Linear", 
+        "fit": "Average", 
         "references": [], 
         "value": 1.0
     }, 
