@@ -1,32 +1,69 @@
 {
     "Ar36": {
-        "error": 0.0010915724029825959, 
+        "error": 0.00014645992465788977, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 0.0066244938793842949
+        "fn": 567, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 0.006624493879384418
     }, 
     "Ar37": {
-        "error": 0.020249133162319591, 
-        "fit": "linear", 
-        "value": 0.026581556398058825
+        "error": 0.0017376572835499434, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "fn": 570, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 0.026581556398058842
     }, 
     "Ar38": {
-        "error": 0.045762452670373099, 
-        "fit": "linear", 
-        "value": 0.31852872747105482
+        "error": 0.003967135424586593, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "fn": 569, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 0.3185287274710549
     }, 
     "Ar39": {
-        "error": 0.056833884622387573, 
+        "error": 0.007561032147076873, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 11.591215306370437
+        "fn": 576, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 11.59121530637061
     }, 
     "Ar40": {
-        "error": 0.043695862128070175, 
+        "error": 0.005863839987747768, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 5.606763962845605
+        "fn": 567, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 5.606763962845861
     }, 
     "Ar41": {
-        "error": 0.052286388249600114, 
-        "fit": "linear", 
-        "value": 0.080591979982106335
-    }
+        "error": 0.0021801047927337445, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 570, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 600, 
+        "std_devs": 2, 
+        "value": 0.0813913937211047
+    }, 
+    "reviewed": true
 }

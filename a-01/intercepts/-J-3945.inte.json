@@ -1,32 +1,69 @@
 {
     "Ar36": {
-        "error": 0.0048022808248811208, 
+        "error": 0.0007881860356426639, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 0.21526032717013893
+        "fn": 386, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
+        "value": 0.2152603271701388
     }, 
     "Ar37": {
-        "error": 0.019449147030134614, 
-        "fit": "linear", 
-        "value": 0.019257538184941622
+        "error": 0.0020338188320352716, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "fn": 383, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
+        "value": 0.019257538184941633
     }, 
     "Ar38": {
-        "error": 0.046779993297478097, 
-        "fit": "linear", 
+        "error": 0.004936034430497976, 
+        "filter_outliers": true, 
+        "fit": "Linear", 
+        "fn": 380, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
         "value": 0.20384642760636673
     }, 
     "Ar39": {
-        "error": 0.05451821321262304, 
+        "error": 0.00898291185752636, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 0.062937037848820293
+        "fn": 380, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
+        "value": 0.06293703784882101
     }, 
     "Ar40": {
-        "error": 0.071784690707128312, 
+        "error": 0.012441584101509683, 
+        "filter_outliers": true, 
         "fit": "Parabolic", 
-        "value": 64.92224356374517
+        "fn": 377, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
+        "value": 64.92224356374513
     }, 
     "Ar41": {
-        "error": 0.051156985180383183, 
-        "fit": "linear", 
-        "value": 0.070401519880700703
-    }
+        "error": 0.0026059962006508056, 
+        "filter_outliers": true, 
+        "fit": "Average", 
+        "fn": 380, 
+        "include_baseline_error": false, 
+        "iterations": 1, 
+        "n": 400, 
+        "std_devs": 2, 
+        "value": 0.08637241159970137
+    }, 
+    "reviewed": true
 }
