@@ -6,10 +6,10 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 1e-20, 
-        "fit": "default", 
+        "error": 0.0, 
+        "fit": "Linear", 
         "references": [], 
-        "value": 1.025
+        "value": 1.0
     }, 
     "H1": {
         "error": 1e-20, 
@@ -34,5 +34,6 @@
         "fit": "default", 
         "references": [], 
         "value": 1.0
-    }
+    }, 
+    "reviewed": true
 }
