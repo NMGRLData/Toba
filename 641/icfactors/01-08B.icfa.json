@@ -6,7 +6,7 @@
         "value": 1.0
     }, 
     "CDD": {
-        "error": 0.0017974845832434757, 
+        "error": 0.0020372746439926894, 
         "fit": "Average", 
         "references": [
             {
@@ -51,26 +51,46 @@
             }, 
             {
                 "exclude": "ok", 
-                "record_id": "a-01-J-3933", 
-                "uuid": "285e61b2-bb53-408f-946d-f50e6dcae07d"
+                "record_id": "a-01-J-3958", 
+                "uuid": "73fc8074-b7cb-4783-bc99-d1297001c4d3"
             }, 
             {
                 "exclude": "ok", 
-                "record_id": "a-01-J-3934", 
-                "uuid": "3e4ccac9-3d94-4003-81b2-6d1a612f6f46"
+                "record_id": "a-01-J-3959", 
+                "uuid": "2103a589-11db-4921-89a1-7a23fac317cc"
             }, 
             {
                 "exclude": "ok", 
-                "record_id": "a-01-J-3935", 
-                "uuid": "a1a19c49-39d9-41e9-98c7-144498b4ae4e"
+                "record_id": "a-01-J-3960", 
+                "uuid": "f0f70644-2d79-47fe-86f0-ee752c117f1a"
             }, 
             {
                 "exclude": "ok", 
-                "record_id": "a-01-J-3936", 
-                "uuid": "c92171f5-3d57-430f-8d1c-e3bb081517da"
+                "record_id": "a-01-J-3961", 
+                "uuid": "a27331d4-9955-4492-8189-979fe1fddbad"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-3962", 
+                "uuid": "a126fa4c-7d92-4639-a777-3cdb18297881"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-3963", 
+                "uuid": "bc6f7707-e956-4056-9bc5-b17cc9c4645d"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-3964", 
+                "uuid": "243cc4f3-0ff6-47f2-8a58-40114faa8092"
+            }, 
+            {
+                "exclude": "ok", 
+                "record_id": "a-01-J-3965", 
+                "uuid": "55271580-db03-4085-ba79-aab349bf5239"
             }
         ], 
-        "value": 1.0273953312754747
+        "value": 1.029333826675052
     }, 
     "H1": {
         "error": 1e-20, 
