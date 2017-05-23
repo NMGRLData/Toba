@@ -1,0 +1,31 @@
+{
+    "age": 0.07598290848342219, 
+    "age_err": 0.012106852121855924, 
+    "age_kind": "Weighted Mean", 
+    "analyses": [
+        {
+            "plateau_step": false, 
+            "tag": "ok", 
+            "uuid": "7075b4ff-bd5d-47c3-a386-790fef8d129f"
+        }, 
+        {
+            "plateau_step": false, 
+            "tag": "ok", 
+            "uuid": "5a5cc950-a701-40da-a80e-2f25660b3737"
+        }
+    ], 
+    "display_age_units": "Ma", 
+    "identifier": "64101", 
+    "include_j_error_in_individual_analyses": false, 
+    "include_j_error_in_mean": true, 
+    "include_j_error_in_plateau": true, 
+    "irradiation": "NM-281", 
+    "kca": 85.79626281729571, 
+    "kca_err": 32.092388993186, 
+    "kca_kind": "Weighted Mean", 
+    "material": "san", 
+    "mswd": 0.19841886278818224, 
+    "name": "3", 
+    "nanalyses": 2, 
+    "sample": "SI-B-6"
+}
