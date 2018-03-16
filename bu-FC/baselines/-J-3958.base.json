@@ -1,27 +1,64 @@
 {
+    "AX": {},
     "CDD": {
-        "error": 1.6645251072804817e-05, 
-        "fit": "average_SEM", 
+        "error": 1.2406637633780958e-06,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 10
+        },
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
         "value": 1.7594851669855415e-06
-    }, 
+    },
     "H1": {
-        "error": 0.043726402131633806, 
-        "fit": "average_SEM", 
-        "value": 0.1824457675218582
-    }, 
+        "error": 0.0042771905376545695,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 86,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.1823783542007901
+    },
     "H2": {
-        "error": 0.11573884213275867, 
-        "fit": "average_SEM", 
+        "error": 0.11573884213275867,
+        "fit": "average_SEM",
         "value": -0.053837148451970684
-    }, 
+    },
     "L1": {
-        "error": 0.13794988738619537, 
-        "fit": "average_SEM", 
-        "value": 0.06643860513965288
-    }, 
+        "error": 0.012434074122515935,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 84,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.06642488203942776
+    },
     "L2": {
-        "error": 0.05202451637165365, 
-        "fit": "average_SEM", 
-        "value": 0.1289643674571481
+        "error": 0.004890143130070009,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 86,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.12619088930186145
     }
 }
