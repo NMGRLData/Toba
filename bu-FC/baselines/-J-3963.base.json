@@ -1,27 +1,64 @@
 {
+    "AX": {},
     "CDD": {
-        "error": 2.850464264082499e-05, 
-        "fit": "average_SEM", 
+        "error": 2.1246106206407935e-06,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 10
+        },
+        "fit": "Average",
+        "fn": 180,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
         "value": 5.278455500956625e-06
-    }, 
+    },
     "H1": {
-        "error": 0.0411415297732596, 
-        "fit": "average_SEM", 
-        "value": 0.1769956897944212
-    }, 
+        "error": 0.003851577392594586,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 86,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.17734572689893635
+    },
     "H2": {
-        "error": 0.11045017524800246, 
-        "fit": "average_SEM", 
+        "error": 0.11045017524800246,
+        "fit": "average_SEM",
         "value": 0.2267772383056581
-    }, 
+    },
     "L1": {
-        "error": 0.2732654079159549, 
-        "fit": "average_SEM", 
+        "error": 0.028804703158314116,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 90,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
         "value": 0.22086571275463535
-    }, 
+    },
     "L2": {
-        "error": 0.04782414241228267, 
-        "fit": "average_SEM", 
-        "value": 0.11299432462223599
+        "error": 0.004549976605991787,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 86,
+        "include_baseline_error": false,
+        "n": 90,
+        "reviewed": true,
+        "value": 0.11274762085617282
     }
 }
