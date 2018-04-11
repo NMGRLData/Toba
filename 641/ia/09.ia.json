@@ -1,0 +1,70 @@
+{
+    "age": 0.09196647696813516,
+    "age_err": 0.0016375894809018065,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "64109-02B",
+            "tag": "ok",
+            "uuid": "7b2fd969-7462-4e00-b854-a327f1575e11"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "64109-03B",
+            "tag": "ok",
+            "uuid": "5d4e4d03-ebf9-4f62-80d6-6b877abf166d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "64109-03C",
+            "tag": "ok",
+            "uuid": "899841b2-a0aa-4575-9620-ba0447580f32"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "64109-06C",
+            "tag": "ok",
+            "uuid": "7453e313-41db-43a0-a12b-bbd410aed149"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "64109-06D",
+            "tag": "ok",
+            "uuid": "f5df1569-5df1-4915-99d4-e6abce6629bc"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.464e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "64109",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-281",
+    "kca": 86.64085722757737,
+    "kca_err": 4.32340308963259,
+    "kca_kind": "Weighted Mean",
+    "material": "san",
+    "mswd": 10.385105069605617,
+    "name": "02",
+    "nanalyses": 5,
+    "project": "Toba",
+    "sample": "SI-B-2",
+    "uuid": "17e6c517-df83-44ff-b84a-bfbf3a4720b7"
+}

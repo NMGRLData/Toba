@@ -1,0 +1,106 @@
+{
+    "age": 0.07542281851237928,
+    "age_err": 0.0005593179881498242,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "63461-03B",
+            "tag": "ok",
+            "uuid": "1cc17d09-0361-44d8-94a3-0df984508c30"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-03C",
+            "tag": "ok",
+            "uuid": "ee949549-f9fe-43df-b17d-fad402733925"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-03D",
+            "tag": "ok",
+            "uuid": "73777ae2-7b22-4845-a9d7-d8789421f68e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-04B",
+            "tag": "ok",
+            "uuid": "b1e3c9a6-60d0-4af4-bd26-b6767a17ed4b"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-04C",
+            "tag": "ok",
+            "uuid": "1e684d1f-1b8f-4845-869a-9b0ae42a29a4"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-04D",
+            "tag": "ok",
+            "uuid": "19520f38-a001-480a-9f3d-7b0f3f4fb68c"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-05B",
+            "tag": "ok",
+            "uuid": "71e6905f-7a7c-4d31-832e-cbc2b3292db3"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-05C",
+            "tag": "ok",
+            "uuid": "e73c5c25-4b5c-47d6-9287-736fc7bc3a84"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-05D",
+            "tag": "ok",
+            "uuid": "62c7504b-ab0e-4d64-8dd9-17161ff3b633"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-05E",
+            "tag": "ok",
+            "uuid": "aec88fe4-48bf-427d-9252-5d7df9cd15f4"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63461-05F",
+            "tag": "ok",
+            "uuid": "ab0ed0c4-e9d5-475f-b8df-a16fc3b24659"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.543e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "63461",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-274",
+    "kca": 87.11449225369209,
+    "kca_err": 13.63083256533205,
+    "kca_kind": "Weighted Mean",
+    "material": "Sanidine",
+    "mswd": 0.11716709771735885,
+    "name": "03",
+    "nanalyses": 11,
+    "project": "Toba",
+    "sample": "TT-10",
+    "uuid": "1d206764-629b-4cc3-ad65-042023806c73"
+}

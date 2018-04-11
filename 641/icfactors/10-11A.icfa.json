@@ -51,5 +51,6 @@
         "fit": "default",
         "references": [],
         "value": 1.0
-    }
+    }, 
+    "reviewed": true
 }
