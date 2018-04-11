@@ -1,0 +1,136 @@
+{
+    "age": 0.07599421811583491,
+    "age_err": 0.0008961591995586783,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "63465-02B",
+            "tag": "ok",
+            "uuid": "ae187db6-4ff5-4e88-bd0d-5495b75b0e2e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-02C",
+            "tag": "ok",
+            "uuid": "330cf215-ac0c-4b6e-b423-458d5458a4e7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-02D",
+            "tag": "ok",
+            "uuid": "eccb293b-fc6d-4bb4-8ec0-02000bca4e3d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-03B",
+            "tag": "ok",
+            "uuid": "55682434-be2b-4dad-bf68-a0a14083085b"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-03C",
+            "tag": "ok",
+            "uuid": "ff91601c-0e0d-4e61-b7e7-32df321dccd0"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-03D",
+            "tag": "ok",
+            "uuid": "b1ad323a-ffc0-49d9-b92c-3aa0829b80a3"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-04B",
+            "tag": "ok",
+            "uuid": "9c1365d1-bddf-4511-947d-6ca632e6e2e5"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-04C",
+            "tag": "ok",
+            "uuid": "67f3c8f9-c7a4-461d-b766-2c77fad11ff4"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-04D",
+            "tag": "ok",
+            "uuid": "012b1b6a-994c-4279-971b-d056b5f87b4e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-05B",
+            "tag": "ok",
+            "uuid": "09a65bce-185d-4b94-afa3-86c240616bd7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-05C",
+            "tag": "ok",
+            "uuid": "5cfb6a97-cc7f-423c-9f67-abb0f56b0776"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-05D",
+            "tag": "ok",
+            "uuid": "2bb36e1a-90fd-4b41-9d11-d94b1d600b3d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-07B",
+            "tag": "ok",
+            "uuid": "029e4552-967d-45ff-8351-b95ed1622c53"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-10B",
+            "tag": "ok",
+            "uuid": "f7f13de0-e7a3-48e9-8451-98afd67ca2c2"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-11B",
+            "tag": "ok",
+            "uuid": "b4154c2a-f9c7-42a4-adf0-72ce899d5f4e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63465-12B",
+            "tag": "ok",
+            "uuid": "eda77cfd-a414-45f2-9caa-2777bb2746cb"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.543e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "63465",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-274",
+    "kca": 88.8654505095121,
+    "kca_err": 25.34238093636167,
+    "kca_kind": "Weighted Mean",
+    "material": "san",
+    "mswd": 0.2702489085455209,
+    "name": "02",
+    "nanalyses": 16,
+    "project": "Toba",
+    "sample": "TT-10-2",
+    "uuid": "85c8bc0f-866b-4b3a-8091-721105097314"
+}

@@ -1,0 +1,124 @@
+{
+    "age": 0.07575351919130026,
+    "age_err": 0.0004990904617535799,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "63457-01B",
+            "tag": "ok",
+            "uuid": "03265b49-3ff5-42b3-bc4c-e5a10bb2efc4"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-01B",
+            "tag": "ok",
+            "uuid": "03265b49-3ff5-42b3-bc4c-e5a10bb2efc4"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-01C",
+            "tag": "ok",
+            "uuid": "1dfbf4d0-734c-4646-8b8a-1e667d04b8ce"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-01C",
+            "tag": "ok",
+            "uuid": "1dfbf4d0-734c-4646-8b8a-1e667d04b8ce"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-01E",
+            "tag": "ok",
+            "uuid": "c0364768-ea40-413d-a527-5855d444ec3b"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-02B",
+            "tag": "ok",
+            "uuid": "922fc8e3-5248-4ec8-9533-2c0465404e8e"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-02E",
+            "tag": "ok",
+            "uuid": "f34c644d-c3b2-4312-a744-1774321688d7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-02F",
+            "tag": "ok",
+            "uuid": "5fc4d957-373b-4049-925a-d135e96c1097"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-03B",
+            "tag": "ok",
+            "uuid": "459159f4-4892-4552-b268-bb6bdc979935"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-03D",
+            "tag": "ok",
+            "uuid": "8e9dd463-798a-4ec0-a711-eb659020b40a"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-04D",
+            "tag": "ok",
+            "uuid": "9c60ed32-4431-41d0-87d7-ae299c6f43e0"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-05B",
+            "tag": "ok",
+            "uuid": "47499270-5ec7-49a4-87ad-98815c77a23d"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-05C",
+            "tag": "ok",
+            "uuid": "dfc80fde-fe49-4ef4-a829-2352c6e0e2cd"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63457-05D",
+            "tag": "ok",
+            "uuid": "0c6dd1f4-3cc2-4a3f-a4e4-2b64f25ab481"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.543e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "63457",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-274",
+    "kca": 85.33879055417184,
+    "kca_err": 11.54504821667483,
+    "kca_kind": "Weighted Mean",
+    "material": "coarse san",
+    "mswd": 0.07684335416120792,
+    "name": "01",
+    "nanalyses": 14,
+    "project": "Toba",
+    "sample": "SF-1",
+    "uuid": "4a3b1ec3-367c-4cd8-92d6-4ba0d3df4973"
+}

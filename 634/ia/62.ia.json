@@ -1,0 +1,70 @@
+{
+    "age": 0.07401917894364732,
+    "age_err": 0.0013627991229684115,
+    "age_kind": "Weighted Mean",
+    "analyses": [
+        {
+            "plateau_step": false,
+            "record_id": "63462-01B",
+            "tag": "ok",
+            "uuid": "1c2b6a85-9231-4e68-b290-dddb7065dba7"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63462-02B",
+            "tag": "ok",
+            "uuid": "1c72f297-863e-4076-9a16-1a7cdfc796de"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63462-03B",
+            "tag": "omit",
+            "uuid": "aed1ccd0-03f9-4596-8f14-de1c28b40aa2"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63462-04B",
+            "tag": "ok",
+            "uuid": "26765ca0-5826-4ab4-aa3f-6a0a77469dff"
+        },
+        {
+            "plateau_step": false,
+            "record_id": "63462-05B",
+            "tag": "ok",
+            "uuid": "e3315759-c08e-49c9-870d-3d7364423012"
+        }
+    ],
+    "arar_constants": {
+        "abundance_sensitivity": 0.0,
+        "atm4036": 295.5,
+        "atm4036_err": 0.5,
+        "atm4038": 1575.0,
+        "atm4038_err": 2.0,
+        "fixed_k3739": 0.01,
+        "fixed_k3739_err": 0.0001,
+        "lambda_Ar37": 0.01975,
+        "lambda_Ar37_err": 0.0,
+        "lambda_Ar39": 7.068e-06,
+        "lambda_Ar39_err": 0.0,
+        "lambda_Cl36": 6.308e-09,
+        "lambda_Cl36_err": 0.0,
+        "lambda_k": 5.543e-10,
+        "lambda_k_err": 0.0
+    },
+    "display_age_units": "Ma",
+    "identifier": "63462",
+    "include_j_error_in_individual_analyses": false,
+    "include_j_error_in_mean": true,
+    "include_j_error_in_plateau": true,
+    "irradiation": "NM-274",
+    "kca": 83.9784034938418,
+    "kca_err": 42.808816277497975,
+    "kca_kind": "Weighted Mean",
+    "material": "Sanidine",
+    "mswd": 0.3520923851413517,
+    "name": "01",
+    "nanalyses": 4,
+    "project": "Toba",
+    "sample": "TT-10",
+    "uuid": "bf756f9a-55e9-4409-b047-a77a676ceb37"
+}
