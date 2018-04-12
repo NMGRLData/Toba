@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00037929928417504275,
+        "error": 0.00037929928417502383,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.03434853291400117
+        "value": 0.034348532914001244
     },
     "Ar37": {
-        "error": 0.02991950034573744,
+        "error": 0.018848853819888822,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 387,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 11.911128588386251
+        "value": 11.898691493024003
     },
     "Ar38": {
         "error": 0.01054294943159774,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 1.087262859784988
+        "value": 1.087262859784987
     },
     "Ar39": {
-        "error": 0.00551863054972696,
+        "error": 0.008799772656300414,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 384,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 2.7731000336644716
+        "value": 2.78983891898911
     },
     "Ar40": {
-        "error": 0.018267857115957582,
+        "error": 0.018267857115960455,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 12.628565077616994
+        "value": 12.628565077616855
     },
     "Ar41": {
         "error": 0.11084062238024274,

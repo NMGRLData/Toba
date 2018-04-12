@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00036662827075531414,
+        "error": 0.00036662827075530563,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.012797568441195764
+        "value": 0.012797568441195749
     },
     "Ar37": {
-        "error": 0.015350164347517115,
+        "error": 0.008716419154489284,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 174,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.8092053103068401
+        "value": 0.8268255995154231
     },
     "Ar38": {
         "error": 0.04138016563611642,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 2.0304511425855907
+        "value": 2.030451142585589
     },
     "Ar39": {
-        "error": 0.01878251146304408,
+        "error": 0.034043706860806336,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 173,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 160.57083122632926
+        "value": 160.5946190148621
     },
     "Ar40": {
-        "error": 0.02506671203963833,
+        "error": 0.025066712039638568,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 108.89069377132293
+        "value": 108.89069377132292
     },
     "Ar41": {
         "error": 0.12381986520540256,

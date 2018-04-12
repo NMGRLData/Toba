@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.000376450673622222,
+        "error": 0.0003764506736222257,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,24 +11,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.009815587371120399
+        "value": 0.009815587371120392
     },
     "Ar37": {
-        "error": 0.014747361672858467,
+        "error": 0.008315161815082666,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 174,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.4293088963756251
+        "value": 0.42210866089663446
     },
     "Ar38": {
-        "error": 0.04467934171188545,
+        "error": 0.04467934171188544,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.8107615273436926
+        "value": 0.8107615273436929
     },
     "Ar39": {
-        "error": 0.012675729947602776,
+        "error": 0.023131584130769753,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 170,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 62.96279001334621
+        "value": 62.96460223030216
     },
     "Ar40": {
-        "error": 0.018056391833581806,
+        "error": 0.01805639183358305,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 43.60697452549985
+        "value": 43.60697452549984
     },
     "Ar41": {
         "error": 0.12573143132822243,

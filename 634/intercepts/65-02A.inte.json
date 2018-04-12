@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0029958042192822685,
+        "error": 0.002995804219282267,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.9403720781579485
+        "value": 0.9403720781579483
     },
     "Ar37": {
-        "error": 0.013721678058120591,
+        "error": 0.007720052242823359,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 176,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.19346798455133715
+        "value": 0.18526598230050095
     },
     "Ar38": {
         "error": 0.052064354633846704,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.1293730205887927
+        "value": 0.12937302058879263
     },
     "Ar39": {
-        "error": 0.009975251804856195,
+        "error": 0.017098422154824898,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 174,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 3.2961244265118035
+        "value": 3.2542470600490834
     },
     "Ar40": {
-        "error": 0.037275002266385075,
+        "error": 0.03727500226638574,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 288.2193142631171
+        "value": 288.2193142631172
     },
     "Ar41": {
         "error": 0.1471659407045499,

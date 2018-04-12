@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0001463172751006785,
+        "error": 0.0001463172751006911,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.006336213769413743
+        "value": 0.00633621376941359
     },
     "Ar37": {
-        "error": 0.006200736404061257,
+        "error": 0.003928047042873565,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 570,
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.1419773880045765
+        "value": 0.14627280387132657
     },
     "Ar38": {
         "error": 0.018768008061583102,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.20744926680653197
+        "value": 0.20744926680653206
     },
     "Ar39": {
-        "error": 0.0044183292001366585,
+        "error": 0.006974973569143899,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 570,
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 3.6164321812031885
+        "value": 3.6184732377005995
     },
     "Ar40": {
-        "error": 0.006234824614908446,
+        "error": 0.0062348246149089145,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 4.339678343274731
+        "value": 4.339678343274656
     },
     "Ar41": {
         "error": 0.1218828611355972,

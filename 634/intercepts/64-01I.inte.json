@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00027307541190987086,
+        "error": 0.00027307541190987726,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.01977754640850312
+        "value": 0.01977754640850307
     },
     "Ar37": {
-        "error": 0.03581056005392501,
+        "error": 0.02258840543709547,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 382,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 2.6161073991611827
+        "value": 2.6231991490577524
     },
     "Ar38": {
         "error": 0.009947906733459832,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.30554193724404316
+        "value": 0.30554193724404344
     },
     "Ar39": {
-        "error": 0.005063241004959774,
+        "error": 0.00812315367235777,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 385,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.5738896710682652
+        "value": 0.5764231341464093
     },
     "Ar40": {
-        "error": 0.016363324367544355,
+        "error": 0.01636332436754438,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 6.6818365011592675
+        "value": 6.681836501159269
     },
     "Ar41": {
         "error": 0.10935094472097125,

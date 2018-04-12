@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00014745464912964943,
+        "error": 0.0001474546491295923,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.00738099798195011
+        "value": 0.007380997981950757
     },
     "Ar37": {
-        "error": 0.0060276888251690535,
+        "error": 0.003785120388000055,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 569,
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.15053032929541244
+        "value": 0.14993868971731575
     },
     "Ar38": {
         "error": 0.01663859321000253,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": -0.0308903416603477
+        "value": -0.030890341660347688
     },
     "Ar39": {
-        "error": 0.004234715031034942,
+        "error": 0.006422514756513983,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 577,
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 0.21721248953156874
+        "value": 0.18583924673702418
     },
     "Ar40": {
-        "error": 0.007619786449761544,
+        "error": 0.007619786449761403,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,
-        "value": 2.314871751454344
+        "value": 2.314871751454375
     },
     "Ar41": {
         "error": 0.11582837252354489,

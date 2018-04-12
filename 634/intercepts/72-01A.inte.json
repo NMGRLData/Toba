@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.001612227571744284,
+        "error": 0.0016122275717441396,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.25490696760982806
+        "value": 0.2549069676098275
     },
     "Ar37": {
-        "error": 0.014413918727374863,
+        "error": 0.008177991991813193,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 172,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.15585440325004737
+        "value": 0.16932378444154708
     },
     "Ar38": {
         "error": 0.04296672973013081,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.20156526590758922
+        "value": 0.20156526590758916
     },
     "Ar39": {
-        "error": 0.009133893908072885,
+        "error": 0.016558223326949773,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 175,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.6243769576890303
+        "value": 0.6079356657881894
     },
     "Ar40": {
-        "error": 0.022869259591222393,
+        "error": 0.022869259591221422,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 77.95882898303383
+        "value": 77.95882898303381
     },
     "Ar41": {
         "error": 0.13163488648479135,

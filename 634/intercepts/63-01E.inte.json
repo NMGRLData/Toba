@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00021078760501280517,
+        "error": 0.00021078760501280563,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,21 +11,21 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.00895008947077712
+        "value": 0.008950089470777117
     },
     "Ar37": {
-        "error": 0.03335688306758187,
+        "error": 0.020989847854305885,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 383,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.4615925253738017
+        "value": 0.4404726466730475
     },
     "Ar38": {
         "error": 0.009841468377372604,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.11652648180888578
+        "value": 0.11652648180888572
     },
     "Ar39": {
-        "error": 0.005392337956790286,
+        "error": 0.00873640930883811,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 385,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.11382378364678009
+        "value": 0.12049998936061482
     },
     "Ar40": {
-        "error": 0.01743015827141445,
+        "error": 0.017430158271412696,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 2.911629097427614
+        "value": 2.911629097427754
     },
     "Ar41": {
         "error": 0.12181048311645283,

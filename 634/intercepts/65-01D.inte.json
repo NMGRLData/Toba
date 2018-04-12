@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0005485303073508594,
+        "error": 0.0005485303073509149,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,24 +11,24 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.03037264794162386
+        "value": 0.0303726479416239
     },
     "Ar37": {
-        "error": 0.014300236686803221,
+        "error": 0.008073834961478189,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 172,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 3.7174940152957845
+        "value": 3.7299455818238973
     },
     "Ar38": {
-        "error": 0.051641008395121306,
+        "error": 0.05164100839512132,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -42,21 +42,21 @@
         "value": -0.05778078510554194
     },
     "Ar39": {
-        "error": 0.00835456176480236,
+        "error": 0.014784769197341199,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 170,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 1.6046581904174255
+        "value": 1.615378948074298
     },
     "Ar40": {
-        "error": 0.012783868463401663,
+        "error": 0.012783868463402012,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 9.763078593980874
+        "value": 9.763078593980854
     },
     "Ar41": {
         "error": 0.13354233545619068,
