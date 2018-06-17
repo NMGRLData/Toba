@@ -1,32 +1,59 @@
 {
     "AX": {
-        "error": 0.06067202228248393, 
-        "fit": "average_SEM", 
-        "value": 0.01575887399150007
-    }, 
+        "error": 0.004129502666236629,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 172,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
+        "value": 0.012362969923848395
+    },
     "CDD": {
-        "error": 5.4367003094183645e-05, 
-        "fit": "average_SEM", 
+        "error": 5.4367003094183645e-05,
+        "fit": "average_SEM",
         "value": 1.6756789409555495e-05
-    }, 
+    },
     "H1": {
-        "error": 0.04457222364992155, 
-        "fit": "average_SEM", 
-        "value": 0.06224715420539724
-    }, 
+        "error": 0.0030108235823240966,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 171,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
+        "value": 0.06377040054080654
+    },
     "H2": {
-        "error": 0.11619766708179245, 
-        "fit": "average_SEM", 
+        "error": 0.11619766708179245,
+        "fit": "average_SEM",
         "value": -0.09023862755056042
-    }, 
+    },
     "L1": {
-        "error": 0.18377906696987664, 
-        "fit": "average_SEM", 
-        "value": -0.01303039324314644
-    }, 
+        "error": 0.012870051520402888,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 174,
+        "include_baseline_error": false,
+        "n": 180,
+        "reviewed": true,
+        "value": -0.018031025570335573
+    },
     "L2": {
-        "error": 0.04463785594391251, 
-        "fit": "average_SEM", 
+        "error": 0.04463785594391251,
+        "fit": "average_SEM",
         "value": 0.01798645361268427
     }
 }

@@ -1,32 +1,59 @@
 {
     "AX": {
-        "error": 0.05578919446267265, 
-        "fit": "average_SEM", 
-        "value": -0.000821549881083688
-    }, 
+        "error": 0.005000669013641698,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 97,
+        "include_baseline_error": false,
+        "n": 101,
+        "reviewed": true,
+        "value": -0.0038848143267762106
+    },
     "CDD": {
-        "error": 0.0001408066964383045, 
-        "fit": "average_SEM", 
+        "error": 0.0001408066964383045,
+        "fit": "average_SEM",
         "value": 0.00011316726980085421
-    }, 
+    },
     "H1": {
-        "error": 0.04476786196259833, 
-        "fit": "average_SEM", 
-        "value": 0.07228550921761348
-    }, 
+        "error": 0.004237673485152949,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 98,
+        "include_baseline_error": false,
+        "n": 101,
+        "reviewed": true,
+        "value": 0.07324793313425604
+    },
     "H2": {
-        "error": 0.12774072647021614, 
-        "fit": "average_SEM", 
+        "error": 0.12774072647021614,
+        "fit": "average_SEM",
         "value": -0.00771191497598452
-    }, 
+    },
     "L1": {
-        "error": 0.3061621352003237, 
-        "fit": "average_SEM", 
+        "error": 0.03046427107584209,
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "Average",
+        "fn": 101,
+        "include_baseline_error": false,
+        "n": 101,
+        "reviewed": true,
         "value": 0.07288298384594215
-    }, 
+    },
     "L2": {
-        "error": 0.06060742126618383, 
-        "fit": "average_SEM", 
+        "error": 0.06060742126618383,
+        "fit": "average_SEM",
         "value": 0.011744665913932178
     }
 }
