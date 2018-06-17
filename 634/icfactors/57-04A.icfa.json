@@ -6,8 +6,8 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.005137027611480433,
-        "fit": "Average",
+        "error": 0.0025142381613479335,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -166,7 +166,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0229554877749987
+        "value": 1.0219525319755671
     },
     "H1": {
         "error": 1e-20,
