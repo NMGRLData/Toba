@@ -7,7 +7,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 384,
+        "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
@@ -21,7 +21,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 384,
+        "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
@@ -35,7 +35,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 393,
+        "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
@@ -49,7 +49,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 378,
+        "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
@@ -63,7 +63,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 382,
+        "fn": 400,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,

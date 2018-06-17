@@ -21,7 +21,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 387,
+        "fn": 386,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
@@ -49,7 +49,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 383,
+        "fn": 382,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,

@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00010483559518873102,
+        "error": 0.00010483559518873002,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,24 +11,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.0010508126694116031
+        "value": 0.0010508126694116176
     },
     "Ar37": {
-        "error": 0.003419463571225181,
+        "error": 0.002179282925753854,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 377,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.016078606121280987
+        "value": 0.01483281806534268
     },
     "Ar38": {
-        "error": 0.005120461377954495,
+        "error": 0.005120461377954494,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -39,24 +39,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.1716663624923475
+        "value": 0.1716663624923474
     },
     "Ar39": {
-        "error": 0.005127844846889333,
+        "error": 0.008030106772231026,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 374,
+        "fit": "Parabolic",
+        "fn": 373,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.05394143856058358
+        "value": 0.039274274925401656
     },
     "Ar40": {
-        "error": 0.007106280971713398,
+        "error": 0.007106280971713523,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.0423356203425167
+        "value": 0.04233562034250204
     },
     "Ar41": {
         "error": 0.05414002771122339,

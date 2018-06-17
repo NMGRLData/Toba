@@ -21,7 +21,7 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "fn": 577,
+        "fn": 578,
         "include_baseline_error": false,
         "n": 600,
         "reviewed": true,

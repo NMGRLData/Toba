@@ -1,34 +1,34 @@
 {
     "Ar36": {
-        "error": 0.00027223355703820146,
+        "error": 0.00015313464052097684,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
-        "fn": 173,
+        "fit": "Linear",
+        "fn": 174,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.005030724627678042
+        "value": 0.004892748173417386
     },
     "Ar37": {
-        "error": 0.014006942980488515,
+        "error": 0.0079160882574079,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
-        "fn": 172,
+        "fit": "Linear",
+        "fn": 171,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 0.23872412592830844
+        "value": 0.23364544509767055
     },
     "Ar38": {
-        "error": 0.04135940068629295,
+        "error": 0.041359400686292944,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -42,7 +42,7 @@
         "value": 0.33580692437864057
     },
     "Ar39": {
-        "error": 0.010296241139934943,
+        "error": 0.010296241139934964,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -53,21 +53,21 @@
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 16.47992140723258
+        "value": 16.479921407232574
     },
     "Ar40": {
-        "error": 0.01315408718019109,
+        "error": 0.012314630834452904,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
-        "fn": 169,
+        "fit": "Linear",
+        "fn": 173,
         "include_baseline_error": false,
         "n": 180,
         "reviewed": true,
-        "value": 11.970815898852726
+        "value": 12.15348661620305
     },
     "Ar41": {
         "error": 0.12504492247646515,

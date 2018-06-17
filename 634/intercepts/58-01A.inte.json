@@ -49,7 +49,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 386,
+        "fn": 385,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
